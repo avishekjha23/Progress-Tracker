@@ -6,7 +6,7 @@
   - - [ ] Types of languages
   - - [ ] Memory management
 - [ ] Flow of the program
-  - - [x] Flowcharts 
+  - - [ ] Flowcharts 
   - - [ ] Pseudocode
 - [ ] Introduction to Java
   - - [ ] Introduction
